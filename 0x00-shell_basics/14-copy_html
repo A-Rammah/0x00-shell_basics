@@ -1,13 +1,2 @@
 #!/bin/bash
-FILE.html=$FILE
-if [ -e FILE == ../FILE ];
-then
-
-fi
-	if [ -e FILE ] && [ FILE == ../FILE ]
-	then
-		cp FILE ..
-	fi
-	if [  ]
-fi
-
+cp -u ./*.html ..
