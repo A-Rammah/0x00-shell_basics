@@ -1,0 +1,5 @@
+#!/bin/bash
+if [ "stat -c '%U' hello" == "root" ];
+then
+chown A-Rammah hello 
+fi
