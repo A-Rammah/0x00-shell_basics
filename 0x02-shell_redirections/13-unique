@@ -1,5 +1,5 @@
 #!/bin/bash
-sort list | uniq -u
+sort -o list | uniq -u
 
 
 
