@@ -1,0 +1,17 @@
+total 60
+-rwxr-xr-x 1 root 37 Aug  8 16:22 0-hello_world
+-rwxr-xr-x 1 root 57 Aug  9 10:41 10-no_more_js
+-rwxr-xr-x 1 root 46 Aug  9 16:21 11-directories
+-rwxr-xr-x 1 root 45 Aug  9 15:48 12-newest_files
+-rw-r--r-- 1 root 38 Aug  9 16:24 13-unique
+-rw-r--r-- 1 root 13 Aug  9 16:29 14-findthatword
+-rwxr-xr-x 1 root 29 Aug  8 16:29 1-confused_smiley
+-rwxr-xr-x 1 root 28 Aug  8 16:31 2-hellofile
+-rwxr-xr-x 1 root 39 Aug  8 16:34 3-twofiles
+-rwxr-xr-x 1 root 29 Aug  8 16:43 4-lastlines
+-rwxr-xr-x 1 root 29 Aug  8 16:44 5-firstlines
+-rwxr-xr-x 1 root 46 Aug  8 16:50 6-third_line
+-rw-r--r-- 1 root 75 Aug  9 16:12 7-file
+-rwxr-xr-x 1 root 37 Aug  9 09:08 8-cwd_state
+-rwxr-xr-x 1 root 37 Aug  9 16:04 9-duplicate_last_line
+-rw-r--r-- 1 root  0 Aug  9 16:31 sort

@@ -1,5 +1,2 @@
 #!/bin/bash
-sort -o list | uniq -u
-
-
-
+uniq -u list | cat
